@@ -17,3 +17,6 @@ Mac OS
 Linux
 
       python3 testConnection.py
+      
+Required Python packages:
+      -Tkinter
