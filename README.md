@@ -20,4 +20,4 @@ Linux
       
 Required Python packages:
 
-   Tkinter
+      Tkinter
