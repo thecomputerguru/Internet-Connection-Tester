@@ -9,12 +9,12 @@ How to run the script
 
 Windows
 
-   python testConnection.py
+      python testConnection.py
    
 Mac OS
 
-   python3 testConnection.py
+      python3 testConnection.py
    
 Linux
 
-   python3 testConnection.py
+      python3 testConnection.py
